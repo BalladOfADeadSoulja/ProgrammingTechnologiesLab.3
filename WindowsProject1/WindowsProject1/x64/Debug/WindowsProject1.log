@@ -1,0 +1,8 @@
+﻿  WindowsProject1.cpp
+C:\Users\olegk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(51,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(62,8): warning C4101: value: неиспользованная локальная переменная
+C:\Users\olegk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(188,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(199,20): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(262): warning C4715: callbackMainWindow: значение возвращается не при всех путях выполнения
+C:\Users\olegk\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(228): warning C4715: callbackSubWindow: значение возвращается не при всех путях выполнения
+  WindowsProject1.vcxproj -> C:\Users\olegk\source\repos\WindowsProject1\x64\Debug\WindowsProject1.exe
